@@ -1,9 +1,6 @@
 <h1 align="center">@Iqrorjon Islomov</h1>
 
-<!-- **Location** : :house: [Tashkent, Uzbekistan](https://www.google.com/maps/dir//astrum/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x38ae5774bb568c81:0x5a794f7263a1e89a?sa=X&ved=2ahUKEwiXo4Siwfj5AhWMjYsKHWwIAfsQ9Rd6BAhHEAQ)
 
-**Phone number** : :telephone_receiver: +998 (90) 627-03-91
- -->
 <h3>Summary :</h3>
 
 _I am junior data science developer. Process oriented data analyst with 1 year of experience. I study at Astrum It Academy. I can do data analysis, data cleaning and data prediction. I can learn fastly. I am sociable_
@@ -19,17 +16,23 @@ _I am junior data science developer. Process oriented data analyst with 1 year o
     7. Scikit-learn
     8. Aiogram-bot
     9. python-telegram-bot
+   
+
+
+## <h3>Languages :</h3>
+
+- Uzbek   : _native_ :thumbsup: :thumbsup: :thumbsup:
+- English : _intermediate_ :thumbsup: :thumbsup:
+- Russian : _elementary_ :thumbsup:
 
 
 
+## <h3>Accounts</h3>
+   - :pushpin: My telegram account : [@IqrorjonCoder](https://t.me/@IqrorjonCoder).
+   - :pushpin: My email account    : [Iqrorjon@mail](https://mailto:islomoviqrorjon15@gmail.com).
+   - :pushpin: My linkedin account : [@IqrorjonCoder](https://linkedin.com/in/iqrorjoncoder).
+   - :pushpin: My twitter  account : [@IqrorjonIslomov](https://twitter.com/IqrorjonIslomov).
+   - :pushpin: My  kaggle  account : [@iqrorjoncoder](https://kaggle.com/iqrorjoncoder).
 
-<!-- 
 
-- **Accounts**
-    - My telegram account : [@IqrorjonCoder](https://t.me/@IqrorjonCoder). :outbox_tray:
-    - My email account    : [Iqrorjon@mail](https://mailto:islomoviqrorjon15@gmail.com). :email:
-    - My linkedin account : [@IqrorjonCoder](https://linkedin.com/in/iqrorjoncoder). :envelope_with_arrow:
-    - My twitter  account : [@IqrorjonIslomov](https://twitter.com/IqrorjonIslomov). :mailbox:
-    - My  kaggle  account : [@iqrorjoncoder](https://kaggle.com/iqrorjoncoder). :postbox:
-
- -->
+## 
