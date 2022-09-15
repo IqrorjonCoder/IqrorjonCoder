@@ -35,4 +35,7 @@ _I am junior data science developer. Process oriented data analyst with 1 year o
    - :pushpin: My  kaggle  account : [@iqrorjoncoder](https://kaggle.com/iqrorjoncoder).
 
 
-## 
+##
+download my resume 
+[Islomov Iqrorjon resume.pdf](https://github.com/IqrorjonCoder/IqrorjonCoder/files/9578115/Islomov.Iqrorjon.resume.pdf)
+
