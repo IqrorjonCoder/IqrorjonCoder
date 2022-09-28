@@ -1,4 +1,4 @@
-<h1 align="center">@Iqrorjon Islomov</h1>
+<h1 align="center">Iqrorjon Islomov</h1>
 
 
 <h3>Summary :</h3>
