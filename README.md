@@ -1,21 +1,4 @@
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 998,
-      "properties": {
-        "ID": 998
-      },
-      "geometry": {
-        "type": "Polygon"
-        
-      }
-    }
-  ]
-}
-```
+
 
 <h1 align="center">Iqrorjon Islomov</h1>
 
@@ -58,3 +41,22 @@ _I am junior data science developer. Process oriented data analyst with 1 year o
 download my resume 
 [Islomov Iqrorjon resume.pdf](https://github.com/IqrorjonCoder/IqrorjonCoder/files/9671472/Islomov.Iqrorjon.resume.pdf)
 
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 998,
+      "properties": {
+        "ID": 998
+      },
+      "geometry": {
+        "type": "Polygon"
+        
+      }
+    }
+  ]
+}
+```
