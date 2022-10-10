@@ -1,3 +1,22 @@
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 998,
+      "properties": {
+        "ID": 998
+      },
+      "geometry": {
+        "type": "Polygon"
+        
+      }
+    }
+  ]
+}
+```
+
 <h1 align="center">Iqrorjon Islomov</h1>
 
 
