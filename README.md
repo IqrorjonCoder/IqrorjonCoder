@@ -15,7 +15,7 @@ _I am junior data science developer. Process oriented data analyst with 1 year o
     4. Matplotlib                           13. Html5
     5. Plotly                               14. Css3
     6. Seaborn                              15. Java-Android
-    7. Scikit-learn
+    7. Scikit-learn                         16. Django
     8. Aiogram-bot
     9. python-telegram-bot
    
